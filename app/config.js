@@ -77,6 +77,10 @@ var config = {
         {
             uid: 'pag14',
             src: 'pag14/index.html'
+        },
+        {
+            uid: 'pag15',
+            src: 'pag15/index.html'
         }
     ]
 };
